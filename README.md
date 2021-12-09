@@ -20,12 +20,6 @@
 
 </p>
 
-<br>
-
-<p align="center">
-  <img alt="CodeBank" src=".github/" width="100%">
-</p>
-
 ---
 
 <div id="-tecnologias"></div>
@@ -41,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Nest.js](https://docs.nestjs.com/)
 - [Apache Kafka](https://kafka.apache.org/documentation/)
 - [Go](https://go.dev/doc/)
+- [Docker](https://docs.docker.com/)
+- [kubernetes](https://kubernetes.io/docs/home/)
 
 ---
 
@@ -59,6 +55,8 @@ As instruções de instalações estão no README.md de cada projeto.
 
 - Clone o repositório `$ git clone https://github.com/israel206/CodeBank.git`
 - Ordem para roda as aplicações `docker-compose up` ou `docker-compose up -d`
+- Docker
+- Kubernetes
 - Apache Kafka
 - Golang
 - Back-end Nest.js
